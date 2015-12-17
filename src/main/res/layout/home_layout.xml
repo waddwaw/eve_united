@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+android:orientation="vertical" android:layout_width="match_parent"
+android:layout_height="match_parent">
+    <FrameLayout
+        android:id="@+id/id_home_frame"
+        android:layout_width="match_parent"
+        android:layout_height="200dp">
+    </FrameLayout>
+
+    <GridView
+            android:id="@+id/id_grid_home_ctrl"
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:numColumns="3"
+            android:padding="16dp"
+            android:verticalSpacing="10dp"
+            android:horizontalSpacing="5dp"
+        />
+
+</LinearLayout>

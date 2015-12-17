@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF4081</color>
+    <color name="colorPrimaryDark">#FF4081</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="main_colors">#0ddcff</color>
+    <color name="home_itme_bg">#fdecfd</color>
+</resources>
